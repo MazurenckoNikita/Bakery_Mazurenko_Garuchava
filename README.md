@@ -35,4 +35,14 @@ Product List
 ![image](https://user-images.githubusercontent.com/125294790/227948053-07ff435d-b044-402d-9507-301dbbaf981a.png)
 
 
+Добавление товара
+
+![image](https://user-images.githubusercontent.com/125294790/227951712-8c448a75-e8f3-4e93-9c64-1a0fe0107a02.png)
+
+
+Редактирование товара
+
+![image](https://user-images.githubusercontent.com/125294790/227952332-c51960fa-c09a-4166-bce9-7396d83de0bc.png)
+
+
 
